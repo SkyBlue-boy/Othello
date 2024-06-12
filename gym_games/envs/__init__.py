@@ -1,0 +1,1 @@
+from gym_games.envs.OthelloEnv import OthelloEnv
